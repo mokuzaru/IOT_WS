@@ -18,7 +18,9 @@ Para este proyecto usaremos los siguientes software/hardware
 
 ##### Blynk
 
-[blynk app](https://play.google.com/store/apps/details?id=cc.blynk&hl=en_US)
+[blynk Android](https://play.google.com/store/apps/details?id=cc.blynk&hl=en_US)
+
+[blynk IOS](https://apps.apple.com/us/app/blynk-iot-for-arduino-esp32/id808760481)
 
 ### Configurar entorno Arduino IDE para usar NodeMCU
 Ir a:
