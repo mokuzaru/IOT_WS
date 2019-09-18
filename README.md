@@ -8,6 +8,7 @@ Para este proyecto usaremos los siguientes software/hardware
 
 #### Software
 - Arduino IDE
+
 #### Hardware
 - ESP8266 (E-12 NodeMCU)
 - USB micro B
